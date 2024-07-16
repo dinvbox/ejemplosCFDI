@@ -1,11 +1,11 @@
-[Facturación Moderna](http://developers.facturacionmoderna.com/) Ejemplo de estructura de comprobantes para diferentes tipos de negocio.
+[Dinvbox](http://developers.dinvbox.mx/) Ejemplo de estructura de comprobantes para diferentes tipos de negocio.
 =====================
 
 
 Archivos Soportados
 --------------------------------------
 
-El servicio de timbrado de [Facturación Moderna](http://www.facturacionmoderna.com/) soporta archivos TXT y XML para la generación de un CFDI 3.2.
+El servicio de timbrado de [Dinvbox](http://www.dinvbox.mx/) soporta archivos TXT y XML para la generación de un CFDI 3.2.
 
 
 
