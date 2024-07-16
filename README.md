@@ -14,10 +14,8 @@ Por tipo de documento
 
 Ejemplo de la estructura del archivo fuente para timbrado (XML y TXT) para el timbrado de comprobantes fiscales según el tipo de documento.
 
-1. [Factura](https://github.com/facturacionmoderna/Comprobantes/tree/master/Factura)
-2. [Nota de Crédito](https://github.com/facturacionmoderna/Comprobantes/tree/master/Nota%20de%20Credito)
-3. [Nota de Cargo](https://github.com/facturacionmoderna/Comprobantes)
-4. [Recibo de Nómina](https://github.com/facturacionmoderna/Comprobantes/tree/master/Recibo%20de%20Nomina)
+1. [CFDI Ingreso](https://github.com/dinvbox/ejemplosCFDI/blob/master/CFDI_40/CFDI40_estructuraGral_XML.xml)
+2. [Recibo de Nómina](https://github.com/facturacionmoderna/Comprobantes/tree/master/Recibo%20de%20Nomina)
 5. [Recibo de Honorarios](https://github.com/facturacionmoderna/Comprobantes/tree/master/Recibo%20de%20Honorarios)
 6. [Recibo de Arrendamiento](https://github.com/facturacionmoderna/Comprobantes/tree/master/Recibo%20de%20Arrendamientos)
 7. [Recibo de Donativos](https://github.com/facturacionmoderna/Comprobantes/tree/master/Recibo%20de%20Donativos)
