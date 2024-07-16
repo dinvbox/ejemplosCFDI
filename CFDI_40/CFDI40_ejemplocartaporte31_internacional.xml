@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante Certificado="MIIFcTCCA1mgAwIBAgIUMzAwMDEwMDAwMDA1MDAwMDMzMTgwDQYJKoZIhvcNAQELBQAwggErMQ8wDQYDVQQDDAZBQyBVQVQxLjAsBgNVBAoMJVNFUlZJQ0lPIERFIEFETUlOSVNUUkFDSU9OIFRSSUJVVEFSSUExGjAYBgNVBAsMEVNBVC1JRVMgQXV0aG9yaXR5MSgwJgYJKoZIhvcNAQkBFhlvc2Nhci5tYXJ0aW5lekBzYXQuZ29iLm14MR0wGwYDVQQJDBQzcmEgY2VycmFkYSBkZSBjYWxpejEOMAwGA1UEEQwFMDYzNzAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBDSVVEQUQgREUgTUVYSUNPMREwDwYDVQQHDAhDT1lPQUNBTjERMA8GA1UELRMIMi41LjQuNDUxJTAjBgkqhkiG9w0BCQITFnJlc3BvbnNhYmxlOiBBQ0RNQS1TQVQwHhcNMjMwNTEwMTU1MzIyWhcNMjcwNTEwMTU1MzIyWjCBmDEYMBYGA1UEAxMPT1NDQVIgS0FMQSBIQUFLMRgwFgYDVQQpEw9PU0NBUiBLQUxBIEhBQUsxGDAWBgNVBAoTD09TQ0FSIEtBTEEgSEFBSzEWMBQGA1UELRMNS0FITzY0MTEwMUIzOTEbMBkGA1UEBRMSS0FITzY0MTEwMUhOVExLUzA2MRMwEQYDVQQLEwpTdWN1cnNhbCAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoGn3Zld2n+1t0KAyxnrlzniAm4YmmMjWzEJhzG9vpKnQnxSveHe1GLf4THl2v2i4C1GSshNwStpeTFEx3kRs6k9tTI36cPb0BnAJzby80GqzNesx74HtLyGNAmItkTFgdr5I3RSlW0Utd42wFETlB9cOgqhA8HqKl7efNUq+12527RTA+tcubtgrGQJxhqaBj/yGmC0yFCmpNhhXnHUBhnnVoDPfZfbPb0kU4IW6lnHaR37A6ElPbnaBpq1GrW7kWejL4dUlIp4FtT8eyZfyfrbqSG7Ic7X0WegOHBbmsmVUrBsLuAXfI+BKfGNCPzJb6l2jLhYL0+81kdEvt2ufGwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQsFAAOCAgEAFw+NejTBngfxEqLN/yjgunU1eBcd403CJbIFv+H0haS2RKv/z5BKev2NwwshWCvnZ67O+ZS86crD3clrRmw9TZWVP1FjCMdO/sNVWq7wRrIXUaImhOwDt95AXOdPeBc5I35tMmGbXn1zf6FimRYTj9slkUmIXh5nY6wb9eH2nMWwXxuhJYsRX8oZ2h2IUkmngByBbujG0xekn4Aqvm+ez6ULaRG+ZykB3sufGh5bWi2VtrkoAOQgvDZpA/5KNPxAaRy3o3pjSOyyjuhZ2x/zvk82RmeihK8qpA6IzAtMEHKf9f0HaR9J2KhGJmCsHaChj5uxpUHTM4M7DE2lTcgnUxNqekmrUOkMGBLYromcTxZjbL+lFKmocwmDVqMCY/IPYhzjLmgihDnNj12IaZVUMhjSQTw65dkBNN8uBJBvUev+MfFxTldzul1z6tA6NwG5fHaYHVYq8pEdzb/0QEAKmNBYtzh9HZvuL4FnX9QfOASI/hhRwEk2MAYzGKU08erhSNnjTZiBhAxqLENOVv82vmJSyyOas8tL1EMEIFMx21ygliR+HqoW/ksfSOZcSpTO5d2rhV/0AB8tq6cCPh3hTb86V9SSHm8NUqJRcWfu90ujZexSTMvVegwnUiEHgDaPO8pLofu0wDSJVB+WcYvfUhlu6MnRIO9cVM5vf6bXXCE=" CondicionesDePago="CONTADO" Exportacion="01" Fecha="2024-07-16T16:00:00" Folio="10" FormaPago="03" LugarExpedicion="68000" MetodoPago="PUE" Moneda="MXN" NoCertificado="30001000000500003318" Sello="d7Hsy+YTrleuWqgieS7kW+WvhMaOR3U77Pr6T6xXDUSukklQqSGbKiJK046JRZZu8zfJV95pBnV2ReVfr7ndFirPvMsZFJjLMbmoRJ/kzgOvri4k84e1qqG1TniLqpfShF871zL9vQ7XHztDh5LLQk9MTfZ7YHjx1E7L9snegbxs3dBR20sBsUVeLsSZxTeP5OIfdk/8mWHXpFugsOWwg6pF1J0r/0qWbEv92kjC3c4FcIN8rr1z5wtDpX1GtLHVJe7jfRMnLldQSnnPHLrKP2nHd+sDb+uVPtgV/YMLhecMLkGYPDl1WCT1bPamExvu1OZUx+jEgX8AKwYeFX55cg==" Serie="CP" SubTotal="32320.00" TipoDeComprobante="I" Total="36198.40" Version="4.0" xmlns:cartaporte31="http://www.sat.gob.mx/CartaPorte31" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd http://www.sat.gob.mx/CartaPorte31 http://www.sat.gob.mx/sitio_internet/cfd/CartaPorte/CartaPorte31.xsd">
+	<cfdi:Emisor Nombre="OSCAR KALA HAAK" RegimenFiscal="612" Rfc="KAHO641101B39"/>
+	<cfdi:Receptor DomicilioFiscalReceptor="36246" Nombre="RODRIGO KITIA CASTRO" RegimenFiscalReceptor="625" Rfc="KICR630120NX3" UsoCFDI="G03"/>
+	<cfdi:Conceptos>
+		<cfdi:Concepto Cantidad="1" ClaveProdServ="78121603" ClaveUnidad="H87" Descripcion="FLETE, TRASLADO DE MERCANCIA" Importe="32320" ObjetoImp="02" Unidad="CAJA" ValorUnitario="32320">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="32320.00" Importe="5171.20" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+				</cfdi:Traslados>
+				<cfdi:Retenciones>
+					<cfdi:Retencion Base="32320.00" Importe="1292.80" Impuesto="002" TasaOCuota="0.040000" TipoFactor="Tasa"/>
+				</cfdi:Retenciones>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos TotalImpuestosRetenidos="1292.80" TotalImpuestosTrasladados="5171.20">
+		<cfdi:Retenciones>
+			<cfdi:Retencion Importe="1292.80" Impuesto="002"/>
+		</cfdi:Retenciones>
+		<cfdi:Traslados>
+			<cfdi:Traslado Base="32320.00" Importe="5171.20" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<cartaporte31:CartaPorte EntradaSalidaMerc="Entrada" IdCCP="CCC00602-43BF-11EF-8E9C-BB42ABD8433B" PaisOrigenDestino="USA" TotalDistRec="1100" TranspInternac="Sí" Version="3.1" ViaEntradaSalida="01">
+			<cartaporte31:RegimenesAduaneros>
+				<cartaporte31:RegimenAduaneroCCP RegimenAduanero="IMD"/>
+			</cartaporte31:RegimenesAduaneros>
+			<cartaporte31:Ubicaciones>
+				<cartaporte31:Ubicacion FechaHoraSalidaLlegada="2022-05-03T16:22:00" NombreRemitenteDestinatario="RODRIGO KITIA CASTRO" RFCRemitenteDestinatario="KICR630120NX3" TipoUbicacion="Origen">
+					<cartaporte31:Domicilio Calle="Avenida Reforma Norte" CodigoPostal="36246" Colonia="0102" Estado="GUA" Municipio="015" NumeroInterior="17" Pais="MEX"/>
+				</cartaporte31:Ubicacion>
+				<cartaporte31:Ubicacion DistanciaRecorrida="1100" FechaHoraSalidaLlegada="2022-03-22T16:22:00" IDUbicacion="DE000017" NombreRemitenteDestinatario="INDISTRIA ILUMINADORA DE ALMACENES" RFCRemitenteDestinatario="IIA040805DZ4" TipoUbicacion="Destino">
+					<cartaporte31:Domicilio Calle="Barroterán" CodigoPostal="78597" Colonia="1742" Estado="SLP" Localidad="07" Municipio="015" NumeroExterior="189" Pais="MEX"/>
+				</cartaporte31:Ubicacion>
+			</cartaporte31:Ubicaciones>
+			<cartaporte31:Mercancias LogisticaInversaRecoleccionDevolucion="Sí" NumTotalMercancias="1" PesoBrutoTotal="1000" UnidadPeso="KGM">
+				<cartaporte31:Mercancia BienesTransp="25174413" Cantidad="10000" ClaveUnidad="H87" Descripcion="Analgésicos narcóticos" PesoEnKg="1000" TipoMateria="03">
+					<cartaporte31:DocumentacionAduanera NumPedimento="10  47  3807  8003832" RFCImpo="XEXX010101000" TipoDocumento="01"/>
+				</cartaporte31:Mercancia>
+				<cartaporte31:Autotransporte NumPermisoSCT="0X2XTXZ0X5X0X3X2X1X0" PermSCT="TPAF01">
+					<cartaporte31:IdentificacionVehicular AnioModeloVM="2000" ConfigVehicular="T3S2R4" PesoBrutoVehicular="3000" PlacaVM="15EU8X"/>
+					<cartaporte31:Seguros AseguraRespCivil="PFG&amp; Seguros S.A. de C.V." PolizaRespCivil="154647"/>
+					<cartaporte31:Remolques>
+						<cartaporte31:Remolque Placa="501&amp;&amp;" SubTipoRem="CTR004"/>
+					</cartaporte31:Remolques>
+				</cartaporte31:Autotransporte>
+			</cartaporte31:Mercancias>
+			<cartaporte31:FiguraTransporte>
+				<cartaporte31:TiposFigura NombreFigura="XOCHILT CASAS CHAVEZ" NumLicencia="000004" RFCFigura="CACX7605101P8" TipoFigura="01"/>
+			</cartaporte31:FiguraTransporte>
+		</cartaporte31:CartaPorte>
+	</cfdi:Complemento>
+</cfdi:Comprobante>
