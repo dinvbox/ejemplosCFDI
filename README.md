@@ -5,7 +5,7 @@
 Archivos Soportados
 --------------------------------------
 
-El servicio de timbrado de [Dinvbox](http://www.dinvbox.mx/) soporta archivos TXT y XML para la generación de un CFDI 3.2.
+El servicio de timbrado de [Dinvbox](http://www.dinvbox.mx/) soporta archivos XML y TXT para la validación y certificación de CFDI
 
 
 
@@ -14,12 +14,10 @@ Por tipo de documento
 
 Ejemplo de la estructura del archivo fuente para timbrado (XML y TXT) para el timbrado de comprobantes fiscales según el tipo de documento.
 
-1. [CFDI Ingreso](https://github.com/dinvbox/ejemplosCFDI/blob/master/CFDI_40/CFDI40_estructuraGral_XML.xml)
+1. [CFDI Ingreso y/o Egreso](https://github.com/dinvbox/ejemplosCFDI/blob/master/CFDI_40/CFDI40_estructuraGral_XML.xml)
 2. [Recibo de Nómina](https://github.com/facturacionmoderna/Comprobantes/tree/master/Recibo%20de%20Nomina)
-5. [Recibo de Honorarios](https://github.com/facturacionmoderna/Comprobantes/tree/master/Recibo%20de%20Honorarios)
-6. [Recibo de Arrendamiento](https://github.com/facturacionmoderna/Comprobantes/tree/master/Recibo%20de%20Arrendamientos)
-7. [Recibo de Donativos](https://github.com/facturacionmoderna/Comprobantes/tree/master/Recibo%20de%20Donativos)
-8. [Carta Porte](https://github.com/facturacionmoderna/Comprobantes/tree/master/Carta%20Porte)
+3. [Recibo electrónico de pago](https://github.com/facturacionmoderna/Comprobantes/tree/master/Recibo%20de%20Honorarios)
+4. [Carta Porte](https://github.com/facturacionmoderna/Comprobantes/tree/master/Carta%20Porte)
 
 
 
